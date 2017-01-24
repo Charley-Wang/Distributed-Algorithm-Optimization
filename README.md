@@ -10,5 +10,12 @@ in the distributed systems with Apache Spark on Amazon Elastic Compute Cloud (EC
 With this design, I have achieved the machine learning with security, high scalability,
 high speed, and fault tolerance.
 
+# Methods
 <p></p>
-![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_1.jpg?raw=true "Main Interface")
+![Alt text](https://github.com/Charley-Wang/Distributed-Algorithm-Optimization/blob/master/results/Model0.jpg?raw=true "Main Interface")
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Distributed-Algorithm-Optimization/blob/master/results/Model1.jpg?raw=true "Main Interface")
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Distributed-Algorithm-Optimization/blob/master/results/Model2.jpg?raw=true "Main Interface")
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Distributed-Algorithm-Optimization/blob/master/results/Model3-6.jpg?raw=true "Main Interface")
